@@ -1,11 +1,10 @@
-
 Hi,
 
 I’m Denis Parfenov. I am a social entrepreneur and an OKFN Ambassador for Ireland. I come up with ideas, work out the way to realise them and and turn ideas into realities.
 
 I work on #OpenGov #OpenData #ogpIRL #opendataIRL
 
-+[Denis Parfenov](http://www.siliconrepublic.com/video/v/1223-interview-denis/ "VIDEO")
++ [Denis Parfenov](http://www.siliconrepublic.com/video/v/1223-interview-denis/"VIDEO")
 + Email:  denis [dot] parfenov [at] gmail.com
 + Twitter: [@prfnv](https://twitter.com/prfnv) (+ [Intagram](http://instagram.com/prfnv “prfnv”) = [RebelMouse](https://www.rebelmouse.com/parfenov/ “parfenov”))
 + [LinkedIn](http://www.linkedin.com/in/denisparfenov)
@@ -15,10 +14,10 @@ I work on #OpenGov #OpenData #ogpIRL #opendataIRL
 
 I founded ActiveCitizen, a grassroots, politically neutral community initiative which builds bridges between citizens and their governments through technology tools, communications and advocacy. Our work resulted in a commitment of the Irish government to participating in the Open Government Partnership.
 
-+ www.activecitizen.cc 
-+ Twitter: @ActiveCitizen_
-+ http://www.scribd.com/activecitizen
-+ http://www.opengovpartnership.org/suppliers/activecitizen
++ [www.activecitizen.cc](www.activecitizen.cc) 
++ Twitter: [@ActiveCitizen_](https://twitter.com/ActiveCitizen_)
++ [http://www.scribd.com/activecitizen](http://www.scribd.com/activecitizen)
++ [http://www.opengovpartnership.org/suppliers/activecitizen](http://www.opengovpartnership.org/suppliers/activecitizen)
 + [Open Government Ireland Google Group](https://groups.google.com/forum/?fromgroups#!forum/open-government-ireland “OGI”)
 
 + I lead ‘Open Data Ireland’ community, organise meetups and hackathons.
